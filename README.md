@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joblonnie/joblonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblonnie&langs_count=8"
+    width="400"
+    alt="Top Languages"
+  />
+  
 
-Here are some ideas to get you started:
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joblonnie"
+    width="400"
+    alt="GitHub Stats"
+  />
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://linkedin.com/in/your_username" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="40"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/your_username" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Medium"
+      height="40"
+    />
+  </a>
+
+
+
+
+
+</div>
