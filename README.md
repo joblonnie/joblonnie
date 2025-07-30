@@ -14,7 +14,7 @@
   />
   
 
-  <a href="https://linkedin.com/in/your_username" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/donghyun-kim-a52b62207/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -22,7 +22,7 @@
     />
   </a>
 
-  <a href="https://linkedin.com/in/your_username" target="_blank" rel="noopener noreferrer">
+  <a href="https://medium.com/@joblonnie" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
       alt="Medium"
