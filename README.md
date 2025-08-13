@@ -2,14 +2,14 @@
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblonnie&langs_count=8"
-    width="400"
+    width="300"
     alt="Top Languages"
   />
   
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=joblonnie"
-    width="400"
+    width="300"
     alt="GitHub Stats"
   />
   
